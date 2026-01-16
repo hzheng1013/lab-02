@@ -6,12 +6,12 @@
 - **CCID:** `<Enter ccid>`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+cmput 301 lab 2 instructions and android basic
+https://developer.android.com/develop/ui/views/layout/constraint-layout?hl=zh-cn
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| N/A          | N/A       |
 | `<Add more>` | `<CCID>`  |
