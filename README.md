@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Han Zheng>`
+- **CCID:** `<1691830>`
 
 ## References and Resources
 cmput 301 lab 2 instructions and android basic
